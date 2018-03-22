@@ -1,4 +1,4 @@
-# Big-Data-Assignment1
+# :cyclone: Big-Data-Assignment1 :cyclone:
 ## Using MapReduce to explore NYC Parking Violations
 
 In this assignment, we will analyze different aspects of parking violations in NYC using Hadoop
